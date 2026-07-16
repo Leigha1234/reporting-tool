@@ -1,0 +1,16 @@
+[
+  {
+    "opportunityid": "1",
+    "topic": "Website Redesign",
+    "estimatedvalue": 5000,
+    "statuscode": 3,
+    "createdon": "2026-06-01"
+  },
+  {
+    "opportunityid": "2",
+    "topic": "Cloud Migration",
+    "estimatedvalue": 12000,
+    "statuscode": 1,
+    "createdon": "2026-06-15"
+  }
+]

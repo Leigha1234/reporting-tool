@@ -1,7 +1,21 @@
 {
-  "totalOpportunities": 2,
-  "wonOpportunities": 1,
-  "conversionRate": "50.00",
-  "totalPipelineValue": 17000,
-  "wonPipelineValue": 5000
+  "totalOpportunities": 12,
+  "wonOpportunities": 4,
+  "conversionRate": 33.3,
+  "totalPipelineValue": 42500,
+  "wonPipelineValue": 12500,
+  "opportunities": [
+    { "id": "OPP-001", "company": "Apple", "value": 5000, "stage": "Closed Won", "lastContact": "2026-07-10" },
+    { "id": "OPP-002", "company": "Samsung", "value": 7500, "stage": "Closed Won", "lastContact": "2026-07-12" },
+    { "id": "OPP-003", "company": "Google", "value": 12000, "stage": "Proposal", "lastContact": "2026-07-14" },
+    { "id": "OPP-004", "company": "Microsoft", "value": 3000, "stage": "Discovery", "lastContact": "2026-07-15" },
+    { "id": "OPP-005", "company": "Amazon", "value": 15000, "stage": "Negotiation", "lastContact": "2026-07-16" },
+    { "id": "OPP-006", "company": "Meta", "value": 0, "stage": "Closed Lost", "lastContact": "2026-07-01" },
+    { "id": "OPP-007", "company": "Nvidia", "value": 8500, "stage": "Qualification", "lastContact": "2026-07-16" },
+    { "id": "OPP-008", "company": "Intel", "value": 2000, "stage": "Closed Won", "lastContact": "2026-06-28" },
+    { "id": "OPP-009", "company": "Tesla", "value": 12000, "stage": "Proposal", "lastContact": "2026-07-15" },
+    { "id": "OPP-010", "company": "Adobe", "value": 5000, "stage": "Discovery", "lastContact": "2026-07-14" },
+    { "id": "OPP-011", "company": "IBM", "value": 2500, "stage": "Closed Won", "lastContact": "2026-07-05" },
+    { "id": "OPP-012", "company": "Oracle", "value": 4000, "stage": "Qualification", "lastContact": "2026-07-16" }
+  ]
 }
